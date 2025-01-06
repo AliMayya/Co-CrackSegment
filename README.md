@@ -16,4 +16,5 @@ To build the ensemble model Co-CrackSegment, a new iterative approach based on t
 Results show that the Co-CrackSegment exhibits a prominent performance compared with core models and weighted average ensemble by means of the considered best statistical metrics.
 
 And also cite this:
+
 **Mayya, A., Alkayem, N. F., Shen, L., Zhang, X., Fu, R., Wang, Q., & Cao, M. (2024, June). Efficient hybrid ensembles of CNNs and transfer learning models for bridge deck image-based crack detection. In Structures (Vol. 64, p. 106538). Elsevier.**‏
